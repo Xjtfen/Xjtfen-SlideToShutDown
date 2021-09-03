@@ -4,7 +4,7 @@ This is an extension of the SlideToShutDown program developed by Microsoft.It ha
 Usage method:
 1. Download and unzip the package: Xjtfen-SlideToShutDown Version 1.0.zip and put it in any folder on the computer.
 
-. The folder contains Chinese Version (Xjtfen-SlideToShutDown Version 1.0 Chinese.exe) and English Version (Xjtfen-SlideToShutDown Version 1.0 English.exe). You can select the language version you need to use.
+2. The folder contains Chinese Version (Xjtfen-SlideToShutDown Version 1.0 Chinese.exe) and English Version (Xjtfen-SlideToShutDown Version 1.0 English.exe). You can select the language version you need to use.
 
 3. After clicking the program, the program starts running. In order to save you the trouble of finding the slidetoshutdown.exe program in the built-in program of windows system (Normally, the path is C:\windows\system32), I have preset the SlideToShutDown.exe program in the program. When running, the program automatically installs the slidetoshutdown.exe program in the folder where the program is located. You just need to follow the content displayed on the program（ E.g. "Agreement Consent", "Enter PIN/Password")
 
