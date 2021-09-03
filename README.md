@@ -27,3 +27,9 @@ Usage method:
 
 
 *注：本程序可以简单理解为两大板块： Xjtfen-SlideToShutDown Version 1.0.exe 和 SlideToShutDown.exe 。版权分别归属于 Xjtfen 和 Microsoft 。本程序仅供娱乐使用，不作为盈利使用。
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*小Tip：在输入“PIN码/密码”时，不管您输入怎么样的字符，甚至不输入，直接按下 Enter 键即可进入下一步，程序不会读取您的PIN码/密码，更不会判断您输入的是否正确。
+
+*Small Tip: When entering the "PIN code/password", no matter what characters you enter, or even do not enter, you can directly press the Enter key to enter the next step. The    program will not read your PIN code/password, let alone judge whether you have entered correctly.
