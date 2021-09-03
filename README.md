@@ -1,4 +1,4 @@
-# Xjtfen-SlideToShutDown
+# Xjtfen-SlideToShutDown Version 1.0.exe
 This is an extension of the SlideToShutDown program developed by Microsoft.It has an "Interactive" effect based on the SlideToShutDown program.
 
 Usage method:
